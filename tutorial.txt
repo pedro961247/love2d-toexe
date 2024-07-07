@@ -1,0 +1,9 @@
+1 - crie uma pasta com o/os arquivos do jogo em lua
+
+2 - arraste a pasta para o script .bat
+
+3 - insira o nome do jogo em executavel
+
+4 - caso você tiver instalado o love2d em outro diretório, insira o caminho para este diretório
+
+5 - pronto, executavel criado com sucesso!
